@@ -1,7 +1,0 @@
-#+TITLE: Sitemap
-
-   + notes
-     + 心理学
-       + 影响力
-         + [[file:notes/心理学/影响力/影响力.org][影响力]]
-   + [[file:index.org][笔记]]
