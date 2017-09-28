@@ -1,0 +1,4 @@
+#+OPTIONS: TOC:nil ; 关闭目录
+#+TITLE: 笔记
+
+* [[file:notes/%E5%BD%B1%E5%93%8D%E5%8A%9B/%E5%BD%B1%E5%93%8D%E5%8A%9B.org][影响力]]

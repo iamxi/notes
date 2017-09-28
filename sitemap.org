@@ -1,0 +1,6 @@
+#+TITLE: Sitemap
+
+   + notes
+     + 影响力
+       + [[file:notes/影响力/影响力.org][影响力]]
+   + [[file:index.org][笔记]]
